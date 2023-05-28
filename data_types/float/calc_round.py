@@ -5,4 +5,5 @@ num2 = float(input("Enter num2 "))
 
 num3 = round(num1 + num2)
 
-print(num3)
+# format our res"ult for larger numbers
+print(f"{num3:,}")
