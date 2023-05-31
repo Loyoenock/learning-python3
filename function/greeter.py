@@ -2,7 +2,7 @@ def greet_user():
     """
     Display  a simple greeting
     """
-    print("Hello")
+    print("Hello!")
 
 
 greet_user()
